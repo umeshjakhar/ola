@@ -7,7 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71;
+  background:url("https://www.facebook.com/photo.php?fbid=777410079006971&set=a.429735473774435.98340.100002139595375&type=1&theater");
+  
+}
 
 a {
   color: #1e6bb8;
